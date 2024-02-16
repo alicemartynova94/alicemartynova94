@@ -1,5 +1,7 @@
 ### Hi!👋
-
+<h1 align="center">Hi, I'm Alice</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Java Developer, fluent in English, Russian and Chinese</h3>
 
 <!--
 **alicemartynova94/alicemartynova94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
