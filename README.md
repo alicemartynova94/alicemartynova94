@@ -10,3 +10,4 @@
 - ❤️ I'm in love with foreign languages and Asian culture
 - 📫 Don’t hesitate to contact me at alicemartynova94@gmail.com or t.me/thechinesegirl94
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" title="java" width="40" height="40" />&nbsp;
