@@ -6,7 +6,7 @@
 
 
 - 👩‍🎓 I've recently received the Certificate of Completion from JavaRush University 
-- 🏋️‍♀️ I’m currently working on my pet projects, check them out:
+- 🏋️‍♀️ I’m currently working on my pet projects, check them out!
 - ❤️ I'm in love with foreign languages and Asian culture
 - 📫 Don’t hesitate to contact me at alicemartynova94@gmail.com or t.me/thechinesegirl94
 
